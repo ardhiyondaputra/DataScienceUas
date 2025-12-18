@@ -78,7 +78,7 @@ project/
 │   └── Confusion Matrix - Deep Learning (MLP).png
 │   └── Loss per Epoch.png
 │   
-├── Laporan Proyek Machine Learning.md
+├── Laporan Proyek Machine Learning.pdf
 ├── Checklist Submit.md
 ├── LICENSE
 ├── requirements.txt
