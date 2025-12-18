@@ -1,10 +1,10 @@
 # 📘 Judul Proyek
-Klasifikasi Gender Berdasarkan Nama Menggunakan TF-IDF dan Perbandingan Model Machine Learning serta Deep Learning
+ANALISIS KLASIFIKASI GENDER BERDASARKAN NAMA MENGGUNAKAN TF-IDF, RANDOM FOREST DAN MULTILAYER PERCEPTRON
 
 ## 👤 Informasi
 - **Nama:** Ardhiyonda Wahyu Putra Viardhana  
 - **Repo:** https://github.com/ardhiyondaputra/DataScienceUas   
-- **Video:** 
+- **Video:** https://youtu.be/okHvg9CYUso
 
 ---
 
@@ -150,10 +150,11 @@ project/
 
 # 8. 🔮 Future Work
 - [ ] Eksplorasi n-gram pada TF-IDF
-- [ ] Feature engineering lebih lanjut (Domain knowledge kimia)
-- [ ] Tuning model (GridSearch/Bayesian Optimization)
-- [ ] Coba arsitektur DL lain (Graph Neural Networks)
-- [ ] Deployment (API/Web App)
+- [ ] Eksperimen representasi teks berbasis karakter
+- [ ] Hyperparameter tuning yang lebih sistematis
+- [ ] Eksplorasi arsitektur Deep Learning lain
+- [ ] Penanganan ketidakseimbangan data yang lebih lanjut
+- [ ] Deployment model ke aplikasi sederhana
 
 ---
 
