@@ -3,7 +3,7 @@ Klasifikasi Gender Berdasarkan Nama Menggunakan TF-IDF dan Perbandingan Model Ma
 
 ## 👤 Informasi
 - **Nama:** Ardhiyonda Wahyu Putra Viardhana  
-- **Repo:**   
+- **Repo:** https://github.com/ardhiyondaputra/DataScienceUas   
 - **Video:** 
 
 ---
