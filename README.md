@@ -51,14 +51,20 @@ project/
 │   └── 234311032_Ardhiyonda.ipynb
 │
 ├── src/
-│   └── Data Import & MakeDir.py
-│   └── Data Loading & Cleaning.py
-│   └── Data Splitting.py
-│   └── Data Transformation.py
-│   └── EDA Visualization.py
-│   └── Evaluation & Comparison
-│   └── Feature Engineering.py
-│   └── Model Training.py
+│   └── baseline_logistic_regression.py
+│   └── build_MLP_model.py
+│   └── convert_tf-idf_to_dense.py
+│   └── data_cleaning.py
+│   └── evaluasi_baseline.py
+│   └── evaluasi_deep_learning.py
+│   └── evaluasi_random_forest.py
+│   └── feature_extraction(TF-IDF).py
+│   └── import_library.py
+│   └── load_dataset.py
+│   └── random_forest.py
+│   └── train_deep_learning.py
+│   └── train_test_split.py
+│   └── training_curves.py
 │   
 ├── models/
 │   ├── baseline_logistic_regression.pkl
